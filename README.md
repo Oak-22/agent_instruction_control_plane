@@ -1,3 +1,10 @@
+> [!IMPORTANT]
+> **This standalone repository has been merged into the [Agentic Engineering Platform](https://github.com/Oak-22/agentic-engineering-platform) monorepo.**
+>
+> Active development now lives at [`platform/agent-control-plane`](https://github.com/Oak-22/agentic-engineering-platform/tree/main/platform/agent-control-plane). This repository is retained as a historical record; use the monorepo for current code, documentation, issues, and contributions.
+
+---
+
 # AI Agent Instruction Control Plane
 
 A repo-portable architecture for governing AI-assisted engineering
